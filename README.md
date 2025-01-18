@@ -1,1 +1,1 @@
-# warp-starship-zsh
+# Configs for the development environment
